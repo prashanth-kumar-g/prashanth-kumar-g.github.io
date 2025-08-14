@@ -1,59 +1,53 @@
-# Professional Portfolio & Project Repository — Prashanth Kumar G
+# Portfolio & Project Repository — Prashanth Kumar G
 
-**Welcome.** This repository powers my GitHub Pages site: https://prashanth-kumar-g.github.io/  
-It provides a central hub with direct links, documentation, demo videos, and installers for my public projects.
+This repository powers the GitHub Pages site: `https://prashanth-kumar-g.github.io/`  
+It provides a central hub with direct links, technical notes, demo videos, and installers for my public projects.
+
+---
+
+## About
+
+I am **Prashanth Kumar G**, currently pursuing MCA at MS Ramaiah Institute of Technology (Bangalore, India). This repo aggregates project links, documentation, and demo resources so reviewers and recruiters can evaluate my work quickly.
 
 ---
 
 ## Featured projects
 
-### 1. Student Attendance Management System (SAMS)
-**Tech:** Visual Basic 6 · Microsoft SQL Server · Inno Setup  
-**Summary:** A production-ready Windows desktop attendance management application with role-based dashboards (Admin & User), one-click installer that bundles SQL Server and automatically restores the database on first run, fast attendance marking, and multiple report formats. Includes a full demo video and developer notes.  
-**Repo:** https://github.com/prashanth-kumar-g/student-attendance-mangement-system
+### Student Attendance Management System (SAMS)
+**Tech:** Visual Basic 6 · Microsoft SQL Server Express 2022 · Inno Setup  
+**Summary:** Production-ready Windows desktop attendance application with role-based Admin & User dashboards, fast attendance marking, multiple exportable reports, and a one-click installer that bundles SQL Server and automates first-run database restore.  
+**Repo:** https://github.com/prashanth-kumar-g/student-attendance-management-system  
+**Demo:** https://www.youtube.com/watch?v=RSNttaydg-g
 
-### 2. Tic Tac Toe — Desktop App
-**Tech:** Visual Basic .NET · Windows Forms · Inno Setup  
-**Summary:** 3×3 Tic Tac Toe with Player vs Player and Player vs Computer modes, randomised turn logic and polished UI. Packaged with an installer and accompanied by a demo video.  
-**Repo:** https://github.com/prashanth-kumar-g/tic-tac-toe
+### Tic Tac Toe — Desktop App
+**Tech:** VB.NET · Windows Forms (.NET Framework 4.x) · Inno Setup  
+**Summary:** Polished 3×3 Tic Tac Toe with Player vs Player and Player vs Computer modes, randomized starting player and color assignment, bundled installer, and full demo walkthrough.  
+**Repo:** https://github.com/prashanth-kumar-g/tic-tac-toe  
+**Demo:** https://www.youtube.com/watch?v=KJ-x_fkpHKM
 
-### 3. Stock Volatility Calculator (Web)
-**Tech:** Web application (data analysis + UI)  
-**Summary:** Web tool for computing and visualising historical stock volatility, with walkthrough videos and source code for reproducible analysis.  
-**Repo:** https://github.com/prashanth-kumar-g/stock-volatility-calculator
+### Stock Volatility Calculator (Web)
+**Tech:** HTML · JavaScript · Plotly.js · MathJax (client-side)  
+**Summary:** Single-page web app to compute and compare historical volatility for two companies; dynamic input tables, statistical outputs (Mean, SD, CV), and interactive Plotly charts. Hosted via GitHub Pages.  
+**Repo:** https://github.com/prashanth-kumar-g/stock-volatility-calculator  
+**Live demo / Video:** https://youtu.be/7dHxhGESmEw
 
-### 4. Personal Portfolio Repository
-**Tech:** Markdown · Documentation  
-**Summary:** Central project README containing detailed project descriptions, screenshots, demo links and developer notes for quick review.  
+### Personal / Profile Repository
+**Summary:** This repo documents my profile, tech-stack badges, project pins, and contact links for quick evaluation.  
 **Repo:** https://github.com/prashanth-kumar-g/prashanth-kumar-g
 
 ---
 
-## Purpose of this repository
+## How to use this site
 
-This repo exists as a verified GitHub Pages site so:
-- Google and other search engines can discover and index my work quickly.
-- Recruiters and collaborators can view all major projects in one place.
-- Demo videos, installers, and detailed READMEs are presented clearly for evaluation.
-
----
-
-## How to view / verify
-
-1. Visit the site: `https://prashanth-kumar-g.github.io/`  
-2. Click any project card to open its repository and view screenshots, demo video, and install instructions.  
-3. For desktop projects, check the Releases section in the repository for installers.
+1. Visit: `https://prashanth-kumar-g.github.io/`  
+2. Click any project card to open its repository and review the README, screenshots, demo video, and releases (for installers).  
+3. For desktop projects, download the Releases installer for one-click setup.
 
 ---
 
-## Contact & next steps
+## Contact & links
 
 - GitHub: https://github.com/prashanth-kumar-g  
-- (Optional) Add a contact email below or in the site header: `your.email@example.com`
-
----
-
-## Notes for indexing (internal)
-
-- Keep this repo public.  
-- After publishing, verify `https://prashanth-kumar-g.github.io/` in Google Search Console (use URL-prefix property) and request indexing. This gives Google a verified, crawlable page that links directly to each project repository.
+- LinkedIn: https://www.linkedin.com/in/prashanth-kumar-g/
+- LeetCode: https://leetcode.com/prashanth-kumar-g/  
+- YouTube: https://www.youtube.com/@prashanth-kumar-g  
