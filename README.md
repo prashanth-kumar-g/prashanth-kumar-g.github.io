@@ -1,4 +1,4 @@
-# Portfolio & Project Repository — Prashanth Kumar G
+# Personal Portfolio & Project Repository — Prashanth Kumar G
 
 This repository powers the GitHub Pages site: `https://prashanth-kumar-g.github.io/`  
 It provides a central hub with direct links, technical notes, demo videos, and installers for my public projects.
