@@ -1,7 +1,7 @@
 # Personal Portfolio & Project Repository — Prashanth Kumar G
 
 This repository powers the GitHub Pages site: `https://prashanth-kumar-g.github.io/`  
-This site serves as a public-facing portfolio showcasing my featured projects, with links to their full documentation and source code in my GitHub profile repository.
+This site serves as a public-facing portfolio showcasing my featured projects, with links to their full documentation and source code in my [GitHub profile repository](https://github.com/prashanth-kumar-g/prashanth-kumar-g).
 
 ---
 
