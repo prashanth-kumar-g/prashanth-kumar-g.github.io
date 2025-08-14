@@ -36,7 +36,7 @@ I am **Prashanth Kumar G**, currently pursuing MCA at MS Ramaiah Institute of Te
 
 ## How to use this site
 
-1. Visit: `https://prashanth-kumar-g.github.io/`  
+1. Visit: [`https://prashanth-kumar-g.github.io/`](https://prashanth-kumar-g.github.io/) 
 2. Click any project card to open its repository and review the README, screenshots, demo video, and releases (for installers).  
 3. For desktop projects, download the Releases installer for one-click setup.
 
